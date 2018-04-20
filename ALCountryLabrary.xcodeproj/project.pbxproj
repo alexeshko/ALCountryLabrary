@@ -13,7 +13,6 @@
 		8A4F5C6B208A4A4900FB22B1 /* ALLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4F5C6A208A4A4900FB22B1 /* ALLoginViewController.swift */; };
 		8A4F5C6D208A4A5E00FB22B1 /* ALLoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4F5C6C208A4A5E00FB22B1 /* ALLoginViewModel.swift */; };
 		8A4F5C6F208A4F0C00FB22B1 /* ALLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4F5C6E208A4F0C00FB22B1 /* ALLoginView.swift */; };
-		8A4F5C78208A631500FB22B1 /* ALMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4F5C77208A631500FB22B1 /* ALMainViewController.swift */; };
 		8A4F5C7B208A6F3200FB22B1 /* ALRootRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4F5C7A208A6F3200FB22B1 /* ALRootRouter.swift */; };
 		8A563885208914C60055E5DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A563884208914C60055E5DE /* AppDelegate.swift */; };
 		8A56388C208914C60055E5DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A56388B208914C60055E5DE /* Assets.xcassets */; };
@@ -52,7 +51,6 @@
 		8A4F5C6A208A4A4900FB22B1 /* ALLoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ALLoginViewController.swift; sourceTree = "<group>"; };
 		8A4F5C6C208A4A5E00FB22B1 /* ALLoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ALLoginViewModel.swift; sourceTree = "<group>"; };
 		8A4F5C6E208A4F0C00FB22B1 /* ALLoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ALLoginView.swift; sourceTree = "<group>"; };
-		8A4F5C77208A631500FB22B1 /* ALMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ALMainViewController.swift; sourceTree = "<group>"; };
 		8A4F5C7A208A6F3200FB22B1 /* ALRootRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ALRootRouter.swift; sourceTree = "<group>"; };
 		8A563881208914C60055E5DE /* ALCountryLabrary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ALCountryLabrary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A563884208914C60055E5DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -399,7 +397,6 @@
 		8A5638D7208920A40055E5DE /* Modules */ = {
 			isa = PBXGroup;
 			children = (
-				8A4F5C77208A631500FB22B1 /* ALMainViewController.swift */,
 			);
 			path = Modules;
 			sourceTree = "<group>";
@@ -611,7 +608,6 @@
 				8A5638CF208920470055E5DE /* UIColor+ALColors.swift in Sources */,
 				8A4F5C69208A4A1500FB22B1 /* ALLoginModel.swift in Sources */,
 				8A563885208914C60055E5DE /* AppDelegate.swift in Sources */,
-				8A4F5C78208A631500FB22B1 /* ALMainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
