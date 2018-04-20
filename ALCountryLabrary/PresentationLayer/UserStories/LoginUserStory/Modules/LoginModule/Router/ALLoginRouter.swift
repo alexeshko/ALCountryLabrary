@@ -14,8 +14,8 @@ class LoginRouter : NSObject {
     private let rootRouter = RootRouter()
     
     func openMainModule(navigation: UINavigationController) {
-        let controller = MainViewController()
-        rootRouter.openModuleController(navigation: navigation, controller: controller, animated: true)
+        //let controller = MainViewController()
+        //rootRouter.openModuleController(navigation: navigation, controller: controller, animated: true)
     }
     
 }
